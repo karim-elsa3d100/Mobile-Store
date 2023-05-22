@@ -1,8 +1,8 @@
 # MobileStore
 
-![admin]("./images/Login.PNG")
-![home]("./images/Home.PNG")
-![accessories]("./images/Accessories.PNG")
-![bills]("./images/Bills.PNG")
-![selling]("./images/Selling.PNG")
-![moblies]("./images/Mobiles.PNG")
+![admin](images/Login.PNG)
+![home](images/Home.PNG)
+![moblies](images/Mobiles.PNG)
+![accessories](images/Accessories.PNG)
+![selling](images/Selling.PNG)
+![bills](images/Bills.PNG)
